@@ -73,10 +73,4 @@ Python-based tool for CVE analysis and vulnerability research
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Stxtics03&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  
-  ### 💡 *"Security is not a product, but a process"*
-  
-  ⭐️ From [Stxtics03](https://github.com/Stxtics03)
-</div>
+
