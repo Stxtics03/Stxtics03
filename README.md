@@ -6,12 +6,12 @@
 
 I'm a **DevOps & Cybersecurity** professional passionate about building secure, scalable systems and protecting digital infrastructure. My work focuses on automating security processes, developing blockchain solutions, and creating robust security frameworks.
 
-- 🔒 Specializing in **DevSecOps** and **Application Security**
-- 🌐 Building innovative solutions with **Blockchain** and **Web3**
-- 🔍 Active in **vulnerability research** and **CVE analysis**
-- 🚀 Continuously learning and improving security practices
+-  Specializing in **DevSecOps** and **Application Security**
+-  Building innovative solutions with **Blockchain** and **Web3**
+-  Active in **vulnerability research** and **CVE analysis**
+-  Continuously learning and improving security practices
 
-## 💻 Tech Stack
+##  Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -60,7 +60,7 @@ Python-based tool for CVE analysis and vulnerability research
 </div>
 
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
