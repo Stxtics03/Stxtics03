@@ -2,7 +2,7 @@
 
 
 
-## 🛡️ About Me
+
 
 I'm a **DevOps & Cybersecurity** professional passionate about building secure, scalable systems and protecting digital infrastructure. My work focuses on automating security processes, developing blockchain solutions, and creating robust security frameworks.
 
@@ -34,18 +34,18 @@ I'm a **DevOps & Cybersecurity** professional passionate about building secure, 
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
-## 🔥 Featured Projects
+##  Featured Projects
 
-### 🌧️ [Rain Water Harvesting - Blockchain System](https://github.com/Stxtics03/Rain-Water-harvesting---Blockchain-Incentivization---Quality-Monitoring-Systme)
+###  [Rain Water Harvesting - Blockchain System](https://github.com/Stxtics03/Rain-Water-harvesting---Blockchain-Incentivization---Quality-Monitoring-Systme)
 **AxGuard** - A cutting-edge security framework with blockchain incentivization for rainwater harvesting and quality monitoring
 - Blockchain-based incentive system
 - Real-time quality monitoring
 - Secure and transparent tracking
 
-### 🔐 [VaultGuard](https://github.com/Stxtics03/vaultguard)
+###  [VaultGuard](https://github.com/Stxtics03/vaultguard)
 Advanced security solution built with JavaScript for protecting sensitive data and assets
 
-### 🐛 [CVE Vulnerability Research](https://github.com/Stxtics03/cve-vuln)
+### [CVE Vulnerability Research](https://github.com/Stxtics03/cve-vuln)
 Python-based tool for CVE analysis and vulnerability research
 
 ## 📊 GitHub Stats
@@ -59,11 +59,6 @@ Python-based tool for CVE analysis and vulnerability research
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stxtics03&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Stxtics03&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
 
 ## 🌐 Connect With Me
 
