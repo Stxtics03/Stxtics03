@@ -4,7 +4,7 @@
 
 
 
-I'm a **DevOps & Cybersecurity** professional passionate about building secure, scalable systems and protecting digital infrastructure. My work focuses on automating security processes, developing blockchain solutions, and creating robust security frameworks.
+I'm a **Cybersecurity** professional passionate about building secure, scalable systems and protecting digital infrastructure. My work focuses on automating security processes, developing blockchain solutions, and creating robust security frameworks.
 
 -  Specializing in **DevSecOps** and **Application Security**
 -  Building innovative solutions with **Blockchain** and **Web3**
@@ -21,8 +21,6 @@ I'm a **DevOps & Cybersecurity** professional passionate about building secure, 
 
 ### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Security & Tools
@@ -33,31 +31,6 @@ I'm a **DevOps & Cybersecurity** professional passionate about building secure, 
 ### Blockchain
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-
-##  Featured Projects
-
-###  [Rain Water Harvesting - Blockchain System](https://github.com/Stxtics03/Rain-Water-harvesting---Blockchain-Incentivization---Quality-Monitoring-Systme)
-**AxGuard** - A cutting-edge security framework with blockchain incentivization for rainwater harvesting and quality monitoring
-- Blockchain-based incentive system
-- Real-time quality monitoring
-- Secure and transparent tracking
-
-###  [VaultGuard](https://github.com/Stxtics03/vaultguard)
-Advanced security solution built with JavaScript for protecting sensitive data and assets
-
-### [CVE Vulnerability Research](https://github.com/Stxtics03/cve-vuln)
-Python-based tool for CVE analysis and vulnerability research
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Stxtics03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stxtics03&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stxtics03&theme=tokyonight" alt="GitHub Streak" />
-</div>
 
 
 ##  Connect With Me
