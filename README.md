@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Stx</h1>
+<h1 align="center">💫Hi, I'm Stx</h1>
 
 <p align="center">
 A backend-leaning <b>DevOps Engineer</b> who builds scalable server-side systems and automated deployment pipelines — with a strong side focus in <b>Cybersecurity</b>, from vulnerability research to secure infrastructure design.
