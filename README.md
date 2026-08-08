@@ -55,8 +55,6 @@ A backend-leaning <b>DevOps Engineer</b> who builds scalable server-side systems
 
 ➤ Side passion in **cybersecurity & ML** — vulnerability research, CVE analysis, and building security-focused tooling.
 
-➤ Actively mastering **Data Structures & Algorithms (DSA)** and optimization patterns.
-
 ➤ Exploring scalable database design and clean, automated deployment pipelines.
 
 ➤ Open to collaborating on DevSecOps tooling, backend APIs, or open-source security projects.
